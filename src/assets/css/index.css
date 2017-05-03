@@ -1,0 +1,13 @@
+html,body{
+    height:100%;
+}
+html{
+    font-size: 12px;
+}
+.headerTitle{
+    height:6vh;
+    line-height: 6vh;
+    text-align: center;
+    background: #eaffea;
+    font-size: 1.4rem;
+}

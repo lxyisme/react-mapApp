@@ -1,0 +1,10 @@
+#container{
+    height: 92vh;
+}
+#placeResult{
+    position: absolute;
+    bottom:0;
+}
+.anchorBL>a{
+    display: none;
+}

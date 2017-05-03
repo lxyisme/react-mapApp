@@ -1,0 +1,28 @@
+.searchBox{
+    position: absolute;
+    top:5vh;
+    right:0;
+    left:0;
+    margin: 0 auto;
+}
+.search{
+    margin: 0 auto;
+    width:80%;
+    background: #fff;
+    height: 6vh;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.search b{
+    font-size: 1.2rem;
+    color: #999;
+    line-height: 6vh;
+}
+#searchItp{
+    width:80%;
+    border:none;
+    height: 6vh;
+    font-size: 1.2rem;
+    line-height: 6vh;
+}

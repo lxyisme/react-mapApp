@@ -1,0 +1,26 @@
+.footerBar{
+    height: 8vh;
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px #ccc solid;
+}
+.footerBar li{
+    text-align: center;
+    line-height: 8vh;
+    flex: 1;
+}
+.footerBar li:nth-child(2){
+    border: 1px #ccc solid;
+    border-bottom: none;
+    border-top: none;
+}
+.footerBar li a{
+    font-size: 1.4rem;
+}
+.footerBar li a b{
+    margin-right: .5rem;
+    font-size: 1.6rem;
+}
+.footerBarActive{
+    color:#0086b3;
+}

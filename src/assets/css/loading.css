@@ -1,0 +1,32 @@
+.placeLoading{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 1;
+}
+.placeLoading h1{
+    height: 100vh;
+    width: 100%;
+    background: #666;
+    opacity: .4;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 0;
+}
+.placeLoading p{
+    position: absolute;
+    font-size: 1.4rem;
+    height: 4vh;
+    line-height: 4vh;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    z-index: 1;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
