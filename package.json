@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --hot --inline --open --port 8001" 
-  },
+  }, 
   "author": "wan9",
   "license": "ISC",
   "devDependencies": {
